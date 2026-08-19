@@ -22,6 +22,7 @@ To implement QR decomposition algorithm using the Gram-Schmidt method.
 
 
 ## Program:
+### Gram-Schmidt Method
 ```py
 ''' 
 Program to QR decomposition using the Gram-Schmidt method
@@ -55,17 +56,6 @@ print("The R Matrix is")
 print("", R)
 
 ```
-### Gram-Schmidt Method
-```
-
-
-
-
-
-
-
-```
-
 ## Output
 <img width="1127" height="437" alt="image" src="https://github.com/user-attachments/assets/bd4daad8-eef2-4a93-92e6-ee04a6d6310a" />
 
